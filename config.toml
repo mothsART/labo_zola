@@ -1,5 +1,5 @@
 # The base URL of the site.
-base_url = "https://website-url.com/"
+base_url = "https://mothsart.github.io/"
 
 # To avoid problems with some variables due to multilingual support,
 # you will find repeated variables in the language section,
