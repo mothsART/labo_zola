@@ -54,12 +54,13 @@ taxonomies = [
             { name = "Devblog", url = "@/devblog/_index.md", icon = "bi-file-earmark-text", display = "block" },
             { name = "Recettes", url = "@/recieps/_index.md", icon = "bi-egg-fried", display = "block" },
             { name = "Recettes secretes", url = "@/secret-recieps/_index.md", display = "hidden" },
+            { name = "Jardinage", url = "@/jardinage/_index.md", display = "hidden" },
             { name = "Auteur", url = "@/author.md", icon = "bi-person", display = "block" },
             { name = "A propos", url = "@/about.md", icon = "bi-question-octagon", display = "block" }
         ]
     
     [extra.social]
-        author_link = "https://author-url.com/"
+        author_link = "https://mothsart.github.io/"
         twitter = "@user"
         links = [
             { name = "Email", url = "mailto:jerem.ferry@email.com", icon = "bi-envelope-fill" },

@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - accès au RSS
 - lien linkedin : https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-ferry-0268a789
 - recherche
+- catégories
 
 - création d'un plugin permettant l'utilisation aisé de Ace Editor :
 
@@ -45,6 +46,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - greffons :
     - utiliser grammalect
+
+## Version 0.1
+
+[x] footer
 
 ## Whois
 

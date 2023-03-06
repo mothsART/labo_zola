@@ -25,10 +25,10 @@ Laisser le jus de la boite de thon pour plus de facilitée.
 
 Ajouter cette préparation à la purée ainsi que la vinaigrette.
 
-Ajouter une cuillère à café de sel fin, du poivre et mêmer le tout à la fourchette.
+Ajouter une cuillère à café de sel fin, du poivre et mêler le tout à la fourchette.
 
 Si le mélange parait trop sec : ajouter 50ml d'eau tiède.
 
-Tapisser le moulle à charlotte préalablement huilé.
+Tapisser le moule à charlotte préalablement huilé.
 
 Laissé au moins 2 heures au frigo.
