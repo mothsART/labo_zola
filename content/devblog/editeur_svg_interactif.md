@@ -3,7 +3,10 @@ title = "Editeur WYSIWYG de SVG interactifs"
 author = "Jérémie Ferry"
 date = 2023-03-05
 weight = 0
-template = "page.html"
+template = "blog_page.html"
+[taxonomies]
+tags = ["primtux", "svg"]
+categories = ["linux", "web"]
 +++
 
 ## Intro

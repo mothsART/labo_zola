@@ -2,7 +2,10 @@
 title = "Fleischschnaka"
 date = 2023-02-26
 weight = 0
-template = "page.html"
+template = "blog_page.html"
+[taxonomies]
+tags = ["alsacien", "viande"]
+categories = ["plat"]
 +++
 
 # Ingrédients

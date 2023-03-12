@@ -51,7 +51,8 @@ taxonomies = [
     [extra.menus]
         nav = [
             { name = "Accueil", url = "@/_index.md", icon = "bi-house", display = "block" },
-            { name = "Devblog", url = "@/devblog/_index.md", icon = "bi-file-earmark-text", display = "block" },
+            { name = "Devblog", url = "@/devblog/_index.md", icon = "bi-terminal", display = "block" },
+            { name = "Réflexion", url = "@/reflexion/_index.md", icon = "bi bi-lightbulb", display = "block" },
             { name = "Recettes", url = "@/recieps/_index.md", icon = "bi-egg-fried", display = "block" },
             { name = "Recettes secretes", url = "@/secret-recieps/_index.md", display = "hidden" },
             { name = "Jardinage", url = "@/jardinage/_index.md", display = "hidden" },
