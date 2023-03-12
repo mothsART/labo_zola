@@ -9,7 +9,7 @@ tags = ["thon", "poisson"]
 categories = ["entrée"]
 +++
 
-# Ingrédients (Pour 6 personnes)
+## Ingrédients (Pour 6 personnes)
 
 - 1 sachet de purée en flocons
 - 450 ml de lait
@@ -19,7 +19,7 @@ categories = ["entrée"]
 - 100 ml de vinaigrette
 - Sel et poivre
 
-# Préparation
+## Préparation
 
 Faire bouillir du lait, ajouter le beurre et les flocons puis laisser gonflé.
 

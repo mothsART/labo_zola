@@ -17,7 +17,7 @@ C'est factuel et inaliénable.
 
 On est donc sorti d'un monde de ténèbres ou toute idée se valait à un monde de lumière ou certains vérités sont connus.
 
-# Tout n'est pas connu
+## Tout n'est pas connu
 
 La science n'aura sans doute jamais réponse à tout.
 D'une part car nous manquons de ressources pour tout comprendre et vérifier.
@@ -28,4 +28,3 @@ Chaque découverte a tendance à élargir nos connaissances sur ce que l'on sait
 
 Le rôle d'un chercheur est bien de comprendre ce que nous ne savons pas encore et il est souvent présemptueux d'anticiper le temps nécessaire pour y parvenir ainsi que les impacts de ces futures découvertes.
 
-# 

@@ -8,7 +8,7 @@ tags = ["Pologne"]
 categories = ["plat", "entrée", "dessert"]
 +++
 
-# Ingrédients
+## Ingrédients (Pour 6 personnes)
 
 - 500 g de pommes de terre
 - 500 g de fromage dur blanc (Riccota)
@@ -18,11 +18,11 @@ categories = ["plat", "entrée", "dessert"]
 - maggi
 - pincé de sel
 
-# Matériel
+## Matériel
 
 - emporte-pièce ou simplement un bol
 
-# Préparation
+## Préparation
 
 Préparer une purée de pomme de terre.
 Mélanger avec la Riccota.
@@ -46,7 +46,7 @@ Faire revenir des lardons.
 
 Servir les Pierogi avec les lardons et les oignons.
 
-# Variante
+## Variantes
 
 - Pierogi au choux
 - Pierogi aux pommes

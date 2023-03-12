@@ -16,7 +16,7 @@ Depuis, j'ai tendance à apporter ma pierre à l'édifice en éditant le wiki d'
 
 J'ai remarqué que certains défauts du wiki étaient réccurents et j'ai essayé de m'emparer du sujet.
 
-# Comment ça fonctionne ?
+## Comment ça fonctionne ?
 
 C'est une collection de scripts python assez simples.
 
@@ -28,7 +28,7 @@ C'est une collection de scripts python assez simples.
 
 4. des scripts d'aide à la correction.
 
-# Les vérifications
+## Les vérifications
 
 1. De l'orthographe, de la grammaire etc via Grammalect.
 
@@ -42,7 +42,7 @@ C'est une collection de scripts python assez simples.
 
 Plus le temps avance et plus les vérifications sont mis sous contrôle dans des tests unitaires avec la [CI de github](https://github.com/mothsART/wiki-corrector/actions) (github actions).
 
-# Avancement
+## Avancement
 
 Ces travaux sont faits sur mon temps personnel et ne respectent pas un plan bien définit.
 Elles sont itératives : 1 à 2 semaines ou je travaille à fond dessus pour faire avancer le sujet.
@@ -60,7 +60,7 @@ Je communique sur l'avancement ici :
 
 et le source est là : [dépôt github](https://github.com/mothsART/wiki-corrector)
 
-# Conclusion
+## Conclusion
 
 Si vous avez lu jusqu'ici, c'est que vous appréciez la documentation d'Ubuntu-fr et que vous êtes sensible aux méthodologie d'amélioration.
 Jusqu'à présent, pas d'IA sophistiqué. Néanmoins, l'outil a déjà rendu de nombreux services et devrait continué à en rendre.
