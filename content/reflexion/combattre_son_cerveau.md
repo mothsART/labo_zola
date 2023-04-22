@@ -19,4 +19,4 @@ Le cerveau humain à plusieurs bugs qui nécessitent d'être combattus (non exha
 
 4. Une réponse simple est forcément plus convaincante qu'une réponse nuancée.
 
-5. ce que nous voyons n'est pas la réalité mais qu'un ersatz.
+5. Ce que nous voyons n'est pas la réalité mais qu'un ersatz.

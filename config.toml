@@ -54,8 +54,11 @@ taxonomies = [
             { name = "Devblog", url = "@/devblog/_index.md", icon = "bi-terminal", display = "block" },
             { name = "Réflexion", url = "@/reflexion/_index.md", icon = "bi bi-lightbulb", display = "block" },
             { name = "Recettes", url = "@/recieps/_index.md", icon = "bi-egg-fried", display = "block" },
-            { name = "Recettes secretes", url = "@/secret-recieps/_index.md", display = "hidden" },
-            { name = "Jardinage", url = "@/jardinage/_index.md", display = "hidden" },
+
+            { name = "Recettes secretes", url = "@/secret/recettes/_index.md", display = "hidden" },
+            { name = "Bricolage secret", url = "@/secret/bricolage/_index.md", display = "hidden" },
+            { name = "Jardinage secret", url = "@/secret/jardinage/_index.md", display = "hidden" },
+
             { name = "Auteur", url = "@/author.md", icon = "bi-person", display = "block" },
             { name = "A propos", url = "@/about.md", icon = "bi-question-octagon", display = "block" }
         ]
