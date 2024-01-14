@@ -10,7 +10,7 @@ categories = ["science"]
 
 Le cerveau humain à plusieurs bugs qui nécessitent d'être combattus (non exhaustif) :
 
-1. La croyance par renforcement : plus on croit quelque chose et plus on cherche (et on trouve) des choses qui nous conforte sur sur nos acquis.
+1. La croyance par renforcement (biais cognitifs) : plus on croit quelque chose et plus on cherche (et on trouve) des choses qui nous conforte sur sur nos acquis.
    Il est très dur de sortir d'une croyance même avec des arguments très objectifs.
 
 2. Les relations de cause à effet. Ce n'est pas parce qu'on identifie 2 phénomènes qui se ressemblent que forcément il y a une relation entre les 2.
@@ -19,4 +19,10 @@ Le cerveau humain à plusieurs bugs qui nécessitent d'être combattus (non exha
 
 4. Une réponse simple est forcément plus convaincante qu'une réponse nuancée.
 
-5. ce que nous voyons n'est pas la réalité mais qu'un ersatz.
+5. Ce que nous voyons n'est pas la réalité mais qu'un ersatz.
+
+6. Il est plus rapide de présenter une idée (potentiellement fausse) que de la démontrer ou la démentir.
+
+## Source
+
+La tronche en biais

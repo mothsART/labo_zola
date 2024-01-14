@@ -16,9 +16,9 @@ Je pense nourrir une section **réflexion** afin de donner ma vision modeste du 
 
 Mes actions associatives se font principalement autours du logiciel open-source et libre.
 
-Je participe activement depuis de nombreuses années au projet [Primtux](https://primtux.fr)
+Je participe activement depuis de nombreuses années au projet [Primtux](https://primtux.fr).
 
 Cette implication me permet également de travailler mon appétence autours de l'art et notamment de l'art numérique.
-Le résultat se retrouve souvent dans le domaine publique. Ex : [Mes réalisations sous OpenClipart](https://openclipart.org/artist/mothsart)
+Le résultat se retrouve souvent dans le domaine publique. Ex : [Mes réalisations sous OpenClipart](https://openclipart.org/artist/mothsart).
 
 Enfin, je reste sensible à l'impact de l'Homme sur la nature et me questionne sur mon rôle à jouer.
