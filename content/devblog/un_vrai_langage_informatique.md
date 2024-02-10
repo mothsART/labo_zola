@@ -16,7 +16,7 @@ Au cours de ma carrière pro, j'ai appris plusieurs langages et paradigmes et vo
 
 - Un typage, partout, le plus fort possible avec tous les avantages :
     - Sérialisation/Déserialisation à partir d'une structure de données.
-    - Du pattern matching : de l'algorithmie la plus simple à  lire et à comprendre.
+    - Du pattern matching : de l'algorithmie simple à lire, à comprendre et faire évoluer.
     - Un moteur d'inférence.
 
 - battery include : j'exige d'avoir le maximum d'outillage sans devoir installer moultes composants car : 
@@ -25,25 +25,26 @@ Au cours de ma carrière pro, j'ai appris plusieurs langages et paradigmes et vo
     - Je dois être en capacité de documenter une API.
     - J'aime avoir un outil en cli adapté : création de projets, lancement des builds, exec etc.
     - Je ne peux me passer de messages d'erreurs et stacktrace explicite.
-    - J'aime avoir des règles fortes d'indentation (pep8 pour Python, 'cargo fmt' pour Rust).
-    - Je suis accro aux contrôles qualités (analyse statique de code) via `ruff` en Python, `cargo clippy`en Rust.
+    - J'aime avoir des règles fortes d'indentation (pep8 pour Python, `cargo fmt` pour Rust).
+    - Je suis accro aux contrôles qualités (analyse statique de code) via `ruff` en Python, `cargo clippy` en Rust.
     - Je ne concois plus un monde sans gestionnaire de dépendances clé en main (pour l'instant, j'ai pas vu mieux que `cargo`).
     - Je m'attends à pouvoir consulter, consommer et alimenter un dépôt dédié aux dépendances. Crates.io pour Rust, Pypi pour Python.
 
-- Des sources adapté à du versionning (git bien sur mais pas que). La création d'un projet devrait être minimaliste. (Le nombre de fichiers à la création de projet que propose C# et Java me semble à proscrire)
+- Des sources adaptés à du versionning (git bien sur mais pas que). La création d'un projet devrait être minimaliste. (Le nombre de fichiers à la création de projet que propose C# et Java me semble à proscrire)
 
-- De l'asynchronisme et du parralélisme si possible "natif". (async/await)
+- De l'asynchronisme et du parralélisme si possible **natif**. (async/await)
 
 - De la performance :
     - langage compilé en code "machine". (pas de machine virtuelle et JIT)
-    - pas de Garbage collector, si possible. (surprises sur les benchs et le temps réel)
+    - pas de Garbage collector, si possible. Par conséquent, pas de mauvaises surprises sur les benchs et le temps réel.
+    Voir pire : des benchs en inadéquation avec la production.
 
 - La capacité à faire du bas comme du haut niveau : parfois on a besoin d'abstration et parfois de précision.
 Les 2 n'étant pas du tout incompatible au sein d'un même projet.
 
 - L'utilisation de paradigmes éprouvés : interfaces, generator, itérateurs, closures, prog fonctionnel, visibilité et confidentialité, objets non nullable etc.
 
--Disposer de la généricité : 
+- Disposer de la généricité :
     - possibilité de rendre un objet débuggable, clonable etc.
     - Utilisation de macros.
 
@@ -55,7 +56,7 @@ Les 2 n'étant pas du tout incompatible au sein d'un même projet.
 
 # Un écosystème
 
-- un IDE qui déchire !
+- Avoir un IDE qui déchire !
 C# et Visual Studio étant pour l'instant la pointe de ce qui se fait mais Rust avec Visual Studio Code tiens la draguée (grâce à rust-lang/rust-analyzer).
     - Mettre des points d'arrêts, parcourir en pas à pas, voir le contenu des variables intermédiaires.
     - Faire de la refacto.
@@ -114,5 +115,6 @@ C# et Visual Studio étant pour l'instant la pointe de ce qui se fait mais Rust 
 
 # Conclusion
 
-Actuellement, j'ai jeté mon dévolu sur Rust car il rempli (et de loin) le plus de cases.
-Mais je suis ouvert à toute nouvelle découverte.
+Actuellement, j'ai jeté mon dévolu sur Rust car il rempli (et de loin) le plus de cas.
+
+Je suis, néanmoins ouvert à toute nouvelle découverte.
