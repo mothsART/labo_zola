@@ -8,3 +8,10 @@ template = "blog_page.html"
 ## Quand planter des pommes de terre ?
 
 10 degré. Pendant la floraison du Lilas.
+
+## Privilégier des plantations qui se renouvelles l'année d'après :
+
+- menthe
+- ail des ours
+- 
+

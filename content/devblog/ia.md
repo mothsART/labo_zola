@@ -54,12 +54,13 @@ Comme pour les IA de Youtube, ce travail rébarbatif est donné à des travaille
 - Les LLM sont très mauvais en mathématique.
 - Quid du droit d'auteur ? Il est très difficile de prouver qu'une IA a aspiré des données dont il n'a pas les droits. Si l'on continue dans ce sens, le droit d'auteur (et des brevets) disparaitra.
 Attention : c'est peut-être bien au final.
+- elles sont utilisés pour répondre à une question alors que leur algorithme devrait, à mon sens, se limiter à déduire une intention.
 
 # Ma vision de l'avenir
 
 Toutes ces formes d'IA me semblent intéressantes et complémentaires.
 Aucune n'a été exploré intégralement.
-En revanche, j'aurais une réticence pour les IA trop gourmandes tel que LLM. Le rapport énergie/pertinence est démentiel et il faudra bien un jour que cette course s'arrête.
+En revanche, j'aurais une réticence pour les IA trop gourmandes tel que les LLM. Le rapport énergie/pertinence est démentiel et il faudra bien un jour que cette course s'arrête.
 
 ChatGPT est sur-côté à mon sens. Je m'en sert au final très peu et chacun des résultats fournis nécessite une vérification assidu. 
 
